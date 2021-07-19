@@ -7,10 +7,9 @@
     <title>Bio Data</title>
 </head>
 <body>
-    <h1 style="border-bottom: 1px solid;" >BioData</h1>
+    <h1 style="border-bottom: 1px solid;" >Biodata</h1>
     <h3>Nama : Fuad Fauzi Alfian sofyan</h3>
     <h3>Alamat : Makassar</h3>
     <h3 >Email : fuadfauzialfiansofyan@gmail.com</h3>
-
 </body>
 </html>
